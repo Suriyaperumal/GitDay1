@@ -1,0 +1,6 @@
+// Filter helps to do some conditions
+
+let mrf=[1,2,3,4,5,6,7,8,9,10]
+
+let even=mrf.filter((val)=>val%2==0)
+console.log(even)

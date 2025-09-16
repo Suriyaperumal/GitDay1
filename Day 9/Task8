@@ -1,0 +1,10 @@
+// Star program
+
+for(let i=0;i<=5;i++){
+    let type=""
+   for(let j=1;j<=i;j++){
+    type=type+'*'
+   }
+   console.log(type) 
+}
+ 

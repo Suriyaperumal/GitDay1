@@ -1,0 +1,6 @@
+// Reduce used to all values in accumulator and prints the final value
+
+let mrf =[1,2,3,4,5,6,7,8,9]
+
+let sum=mrf.reduce((acc,val)=>acc+val,20) // Accumulator stores the previous values with given number 20.
+    console.log(sum)

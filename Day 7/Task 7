@@ -1,0 +1,9 @@
+// Array
+
+let Arr=[];
+Arr.push(10,20,30);
+console.log(Arr);
+Arr.unshift(5);
+console.log(Arr);
+Arr.shift();
+console.log(Arr);
